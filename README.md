@@ -1,2 +1,2 @@
 # PuyoPuyoRL
-ぷよぷよのRK
+ぷよぷよのRL
