@@ -19,8 +19,11 @@ SEGA社が制作・コンパイルを行っている「ぷよぷよ」シリー�
 
 ### 開発環境
 python 3.7
+
 RL:
+
   enviroment : [frostburn](https://github.com/frostburn/gym_puyopuyo)
+  
   Agent : Deep Q-Network
 
 ### 結果・考察
