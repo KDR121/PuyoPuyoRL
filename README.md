@@ -29,13 +29,13 @@ RL:
 ### 結果・考察
 
 学習初期
-![学習初期](https://user-images.githubusercontent.com/59335458/152766887-85bee738-2afc-43ef-ab64-c81a19b005cf.PNG)
+<img src = "https://user-images.githubusercontent.com/59335458/152766887-85bee738-2afc-43ef-ab64-c81a19b005cf.PNG" width = 400px>
 
 学習中期
-![学習中記](https://user-images.githubusercontent.com/59335458/152766892-1fec58dc-07d8-4fb1-8814-e58b906422f2.PNG)
+<img src = "https://user-images.githubusercontent.com/59335458/152766892-1fec58dc-07d8-4fb1-8814-e58b906422f2.PNG" width = 400px>
 
 学習最終
-![学習終盤](https://user-images.githubusercontent.com/59335458/152766901-6841d048-820d-4413-aaef-26cd8ca7607b.PNG)
+<img src = "https://user-images.githubusercontent.com/59335458/152766901-6841d048-820d-4413-aaef-26cd8ca7607b.PNG" width = 400px>
 
 
 
