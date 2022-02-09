@@ -41,7 +41,7 @@ OpenAI gym:
 
 #### 学習終盤  
 序盤に右端二列に積み上げて、何連鎖も行う。300回ぷよを落としてもゲームオーバーにならないことがある。6連鎖や7連鎖もたまに出る。  
-<img src = "https://user-images.githubusercontent.com/59335458/152766901-6841d048-820d-4413-aaef-26cd8ca7607b.PNG" width = 200px>
+<img src = "https://user-images.githubusercontent.com/59335458/153155589-ecabbbe1-f373-4038-bf7b-775fd0849557.gif" width = 200px>
 
 ## 追加実装
 当初の目的である高いスコアを獲得するのに加えて、  
