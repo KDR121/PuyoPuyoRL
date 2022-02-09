@@ -33,7 +33,7 @@ OpenAI gym:
 ## 結果・考察
 #### 学習初期  
 一定の箇所にのみ積み上がり、連鎖はおろか必要最低数でゲームオーバーになってしまう。  
-<img src = "https://user-images.githubusercontent.com/59335458/152766887-85bee738-2afc-43ef-ab64-c81a19b005cf.PNG" width = 200px>
+<img src = "https://user-images.githubusercontent.com/59335458/153154451-43e63540-701a-4abe-9418-08b5002b47d2.gif" width = 200px>
 
 #### 学習中期  
 一連鎖や二連鎖は確認できるが、三連鎖以上の連鎖は確認されず、まだ埋められるマス目があってもゲームオーバーになってしまう。  
