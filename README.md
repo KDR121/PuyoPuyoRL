@@ -52,5 +52,5 @@ OpenAI gym:
 
 ### 追加実装結果
 1.少ないぷよ数を維持するAI（全消しを狙うAI）  
-![全消し_2](https://user-images.githubusercontent.com/59335458/153150471-e4a57d3f-1472-4483-aea5-916fa9e7c55e.gif)  
+<img src = "https://user-images.githubusercontent.com/59335458/153150471-e4a57d3f-1472-4483-aea5-916fa9e7c55e.gif" width = 200px>  
 全消しこそはできていないものの、常に消せるぷよがあれば消している動作が確認できる。  
