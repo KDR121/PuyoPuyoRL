@@ -40,7 +40,7 @@ OpenAI gym:
 <img src = "https://user-images.githubusercontent.com/59335458/152766892-1fec58dc-07d8-4fb1-8814-e58b906422f2.PNG" width = 200px>
 
 #### 学習終盤  
-序盤に右端二列に積み上げて、何連鎖も行う。300回ぷよを落としてもゲームオーバーにならないことがある。6連鎖や7連鎖もたまに出る。  
+一連鎖や二連鎖を行わず、高く積み上げてから下の方のぷよを消すことで雪崩的に大連鎖を狙っている様子が確認できる。最終的にはゲームオーバーになる前に全てのマス目を埋めている。  
 <img src = "https://user-images.githubusercontent.com/59335458/153155589-ecabbbe1-f373-4038-bf7b-775fd0849557.gif" width = 200px>
 
 ## 追加実装
